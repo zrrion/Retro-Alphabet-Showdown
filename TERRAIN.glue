@@ -1,0 +1,8 @@
+terrain RAS_Glue
+{
+	//footclip		10
+	liquid
+	friction		0.75
+}
+floor PRP_0000 RAS_Glue
+floor "Textures/Purple Glue/PRP_0000.png" RAS_Glue

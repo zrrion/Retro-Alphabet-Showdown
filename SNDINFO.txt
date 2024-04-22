@@ -1,0 +1,24 @@
+Dog/Sight		DSDOGSEE
+Dog/Active		DSDOGIDL
+Dog/Pain		DSDOGPAN
+Dog/Attack		DSDOGATK
+Dog/Death		DSDOGDIE
+
+$random Shadow/active { act1 act2 }
+act1			SHDACT1
+act2			SHDACT2
+$random Shadow/pain { pain1 pain2 }
+pain1			SHDPAIN1
+pain2			SHDPAIN2
+Shadow/attack		SHDATTAK
+Shadow/death		SHDDEATH
+
+LordOfHeresy/sight DSLOHSIT
+LordOfHeresy/act DSLOHACT
+LordOfHeresy/death DSLOHDTH
+
+NSTHND00					NSTHND00
+NSTHND01					NSTHND01
+NSTHND02					NSTHND02
+NSTHND03					NSTHND03
+$random zrrion/thunder		{ NSTHND00 NSTHND01 NSTHND02 NSTHND03 }

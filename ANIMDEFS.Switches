@@ -1,0 +1,41 @@
+switch GM2000 on sound Switch1 pic GM2001 tics 0
+switch GM2001 off sound Switch1 pic GM2000 tics 0
+//====
+switch ZQM_5001 on sound Switch1 pic ZQM_5002 tics 0
+switch ZQM_5002 off sound Switch1 pic ZQM_5001 tics 0
+//====
+switch ZQM_7001 on sound Switch1 pic ZQM_7002 tics 0
+switch ZQM_7002 off sound Switch1 pic ZQM_7001 tics 0
+//====
+switch ZQM_7003 on sound Switch1 pic ZQM_7004 tics 0
+switch ZQM_7004 off sound Switch1 pic ZQM_7003 tics 0
+//====
+switch ZQM_7005 on sound Switch1 pic ZQM_7006 tics 0
+switch ZQM_7006 off sound Switch1 pic ZQM_7005 tics 0
+//====
+switch ZQM_7007 on sound Switch1 pic ZQM_7008 tics 0
+switch ZQM_7008 off sound Switch1 pic ZQM_7007 tics 0
+//====
+switch ZQM_7009 on sound Switch1 pic ZQM_7010 tics 0
+switch ZQM_7010 off sound Switch1 pic ZQM_7009 tics 0
+//====
+switch ZQM_7011 on sound Switch1 pic ZQM_7012 tics 0
+switch ZQM_7012 off sound Switch1 pic ZQM_7011 tics 0
+//====
+switch ZQM_7013 on sound Switch1 pic ZQM_7014 tics 0
+switch ZQM_7014 off sound Switch1 pic ZQM_7013 tics 0
+//====
+switch ZQM_7015 on sound Switch1 pic ZQM_7016 tics 0
+switch ZQM_7016 off sound Switch1 pic ZQM_7015 tics 0
+//====
+switch ZQM_7017 on sound Switch1 pic ZQM_7018 tics 0
+switch ZQM_7018 off sound Switch1 pic ZQM_7017 tics 0
+//====
+switch ZQM_8000 on sound Switch1 pic ZQM_8001 tics 0
+switch ZQM_8001 off sound Switch1 pic ZQM_8000 tics 0
+//====
+switch ZQM_8002 on sound Switch1 pic ZQM_8003 tics 0
+switch ZQM_8003 off sound Switch1 pic ZQM_8002 tics 0
+//====
+switch ZQM_8004 on sound Switch1 pic ZQM_8005 tics 0
+switch ZQM_8005 off sound Switch1 pic ZQM_8004 tics 0

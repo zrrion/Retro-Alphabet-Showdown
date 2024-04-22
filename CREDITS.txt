@@ -1,0 +1,44 @@
+/*ROTTWEILER
+Name: Rottweiler
+Difficulty: Easy
+Connection: None
+Summon: DemonDog
+Melee: Yes
+Distance: No
+Type: Animal, Undead
+
+Submitted: Captain Toenail
+Decorate: Captain Toenail
+GLDEFs: N/A
+Sounds: id Software
+Sprites: id Software
+Sprite Edit: Captain Toenail
+Inspiration: Quake
+*/
+
+/*SHADOW
+Name: Shadow
+Difficulty: Easy
+Connection: Uses Etheral Soul projectiles
+Summon: Shadow
+Melee: No
+Distance: Projectile
+Type: Demon, Ghost
+Brightmaps: Yes
+*/
+
+/*HERESY_LORD
+Name: Lord of Heresy
+Difficulty: Hard
+Connection: none
+Summon: LordofHeresy
+Melee: Yes
+Distance: Projectile
+Type: Demon
+Brightmaps: Yes
+
+Decorate: Bouncy, Tormentor667
+GLDefs: Sandypaper (Brightmaps)
+Sounds: Zippy
+Sprites: Id Software
+Sprite Edit: Vader, Tormentor667 (recolor)

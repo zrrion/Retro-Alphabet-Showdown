@@ -1,0 +1,16 @@
+terrain RAS_Grass
+{
+}
+terrain RAS_HalfGrass
+{
+}
+terrain RAS_Dirt
+{
+}
+
+floor ZDIRT001 RAS_Grass
+floor "Textures/Rocks and Dirt/ZDIRT001.png" RAS_Grass
+floor ZDIRT203 RAS_HalfGrass
+floor "Textures/Rocks and Dirt/ZDIRT203.png" RAS_HalfGrass
+floor ZDIRT204 RAS_Dirt
+floor "Textures/Rocks and Dirt/ZDIRT204.png" RAS_Dirt

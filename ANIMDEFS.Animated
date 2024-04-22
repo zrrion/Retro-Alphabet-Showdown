@@ -1,0 +1,62 @@
+texture ZQM_2009 range ZQM_2011 tics 6
+//====
+texture ZQM_2014 range ZQM_2016 tics 6
+//====
+texture ZQM_3009 range ZQM_3011 tics 6
+//====
+texture ZQM_3014 range ZQM_3016 tics 6
+//====
+texture ZQM_4009 range ZQM_4011 tics 6
+//====
+texture ZQM_4014 range ZQM_4016 tics 6
+//====
+texture ZQM_5006 range ZQM_5008 tics 6
+//====
+texture ZQM_5010 range ZQM_5013 tics 6
+//====
+texture ZQM_6003 range ZQM_6005 tics 6
+//====
+texture ZQM_6007 range ZQM_6009 tics 6
+//====
+texture ZDIRT300 range ZDIRT303 tics 6
+//====
+texture ZDIRT400 range ZDIRT403 tics 6
+//====
+texture ZQM_T201 range ZQM_T205 rand 4 6
+texture ZQM_T301 range ZQM_T305 rand 4 6
+texture ZQM_T401 range ZQM_T405 rand 4 6
+texture ZQM_T501 range ZQM_T505 rand 4 6
+
+texture PRP_0000 range PRP_0007 rand 6 8
+texture PRP_1001 range PRP_1016 rand 6 8
+texture "Textures/Purple Glue/PRP_0000.png"
+	Pic "Textures/Purple Glue/PRP_0000.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_0001.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_0002.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_0003.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_0004.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_0005.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_0006.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_0007.png" rand 6 8
+
+texture "Textures/Purple Glue/PRP_1001.png"
+	Pic "Textures/Purple Glue/PRP_1001.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1002.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1003.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1004.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1005.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1006.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1007.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1008.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1009.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1010.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1011.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1012.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1013.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1014.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1015.png" rand 6 8
+	Pic "Textures/Purple Glue/PRP_1016.png" rand 6 8
+
+
+texture CACOFLL0 range CACOFLL3 rand 6 8
+texture Z_BRK009 range Z_BRK011 rand 6 8

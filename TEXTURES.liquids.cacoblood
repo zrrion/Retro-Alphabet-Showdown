@@ -1,0 +1,449 @@
+
+          Texture "CBLD0000", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", 0, 0
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -64, -64
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0001", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -2, -2
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -62, -62
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0002", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -4, -4
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -60, -60
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0003", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -6, -6
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -58, -58
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0004", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -8, -8
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -56, -56
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0005", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -10, -10
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -54, -54
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0006", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -12, -12
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -52, -52
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0007", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -14, -14
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -50, -50
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0008", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -16, -16
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -48, -48
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0009", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -18, -18
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -46, -46
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0010", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -20, -20
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -44, -44
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0011", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -22, -22
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -42, -42
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0012", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -24, -24
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -40, -40
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0013", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -26, -26
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -38, -38
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0014", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -28, -28
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -36, -36
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0015", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -30, -30
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -34, -34
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0016", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -32, -32
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -32, -32
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0017", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -34, -34
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -30, -30
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0018", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -36, -36
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -28, -28
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0019", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -38, -38
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -26, -26
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0020", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -40, -40
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -24, -24
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0021", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -42, -42
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -22, -22
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0022", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -44, -44
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -20, -20
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0023", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -46, -46
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -18, -18
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0024", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -48, -48
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -16, -16
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0025", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -50, -50
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -14, -14
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0026", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -52, -52
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -12, -12
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0027", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -54, -54
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -10, -10
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0028", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -56, -56
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -8, -8
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0029", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -58, -58
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -6, -6
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0030", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -60, -60
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -4, -4
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}
+Texture "CBLD0031", 64, 64
+{
+Patch "W_1000", 0, 0
+Patch "W_1001", -62, -62
+    {
+    Alpha 0.5
+    Style Add
+    }
+Patch "W_1002", -2, -2
+    {
+    Alpha 0.5
+    Style Translucent
+    }
+}

@@ -1,0 +1,233 @@
+clearepisodes
+episode MAP00
+{
+noskillmenu
+name = "Retro Alphabet Showdown"
+}
+
+DoomEdNums
+{	
+	17000 = SwitchHand
+	17010 = DemonDog
+	17011 = Shadow
+	17012 = BigButton
+	17013 = TechPillar2
+	17014 = TechPillar3
+	17015 = Cacomera
+	
+	10010 = BloodDripper
+	10011 = LiquidFizz
+	10012 = Teleport_Pad
+	
+	32001 = SKP_GreenBoots
+	32002 = SKP_JumpBoots
+	32003 = SKP_AreaHazard
+	32004 = SKP_PurpleBubbleSpawner
+	32005 = SKP_PlasmaOffer
+	32006 = SKP_Skull
+	32007 = skp_RollerGate
+	32008 = skp_RollerGate_Proximity
+	32009 = skp_RollerGate_Decoration
+	32010 = SKP_HealthMegaBonus
+	32011 = CacoMeat
+	
+	12011 = SwitchButton
+	12012 = SwitchSwitch
+	12013 = SwitchNeedsKey
+	12014 = FormerViolet
+	12015 = SwitchSkull
+	12016 = SKP_KeyGizmo
+	12017 = SKP_GoldCandle_1
+	12018 = SKP_GoldCandle_2
+	12019 = SKP_GoldCandle_3
+	12020 = SKP_GoldHeart
+	12021 = SKP_GoldLamp
+	12022 = SKP_GoldHangingLamp
+	12023 = SKP_GoldTorch_Red
+	12024 = SKP_GoldTorch_Green
+	12025 = SKP_GoldTorch_Blue
+	12026 = SKP_GoldTorch_Purple
+	12027 = SKP_RedArmor
+	
+	12028 = SKP_Paper
+	12029 = SKP_Leaves
+	12030 = SKP_FireEye
+	12031 = SKP_WoodandIronPillar_Short
+	12032 = SKP_WoodandIronPillar_Short_Bloody
+	12033 = SKP_WoodandIronPillar_Short_BeatingHeart
+	12034 = SKP_WoodandIronPillar_Short_BloodyMess
+	12035 = SKP_WoodandIronPillar_Tall
+	12036 = SKP_WoodandIronPillar_Tall_RedBan
+	12037 = SKP_WoodandIronPillar_Tall_BlackBan
+	12038 = SKP_WoodandIronPillar_Tall_BlueBan
+	12039 = SKP_WoodandIronPillar_Tall_PurpleBan
+	12040 = SKP_SawFuel
+	12041 = skp_PlacedXdeathGib
+	12042 = SKP_Keyboard
+	12043 = Grass_Spawner
+	//heretic props
+	12044 = HereticSkull
+	12045 = HereticSkullBrain
+	12046 = HereticWebCorner
+	12047 = HereticWebCeiling
+	//hexen props
+	12048 = HexenBrickA
+	12049 = HexenBrickB
+	12050 = HexenBrickC
+	12051 = HexenCandleA
+	12052 = HexenCandleB
+	12053 = HexenCandleC
+	12054 = HexenCleaver
+	12055 = HexenTombstoneRIP
+	12056 = HexenTombstone
+	12057 = HexenMushroomLarge
+	12058 = HexenMushroomSmall
+	12059 = HexenRockA
+	12060 = HexenRockB
+	12061 = HexenRockC
+	12062 = HexenRockD
+	12063 = HexenSteinA
+	12064 = HexenSteinB
+	//savepoints/checkpoints
+	12065 = GreenCheckpoint
+	12066 = RedCheckpoint
+	12067 = YellowCheckpoint
+	12068 = GreenSavepoint
+	12069 = RedSavepoint
+	12070 = YellowSavepoint
+	//wolfendoom stuff
+	12071 = ZombieSS
+	12072 = WolfCeilingLight
+	12073 = WolfChair
+	12074 = WolfTable
+	//
+	12075 = UtilityPole
+	12076 = UtilityPoleTransformer
+	//
+	12077 = SKP_DukeTweezers
+	12078 = SKP_DukeNeedle
+	12079 = SKP_DukeMisc
+	12080 = SKP_DukeTray
+	//
+	12081 = skp_BloodShovel
+	12082 = skp_BloodSpade
+	
+	12083 = skp_unmaker
+	12084 = skp_HellKeen
+
+	12085 = skp_GreenSkull
+	12086 = PurpleCard
+	12087 = HoloFloor
+	12088 = GreenButton
+	12089 = PurpleButton
+	12090 = ButtonAction
+	12091 = WolfCeilingLight_Red
+	12092 = WolfFloorLight
+	12093 = WolfFloorLight_Red
+	12094 = WolfFallenChair
+	12095 = Gumby
+	12096 = Pokey
+}
+
+defaultmap
+{
+VertWallShade = 4
+HorizWallShade = -4
+SmoothLighting
+
+ForceNoSkyStretch
+//SpawnWithWeaponRaised
+CheckSwitchRange
+ClipMidTextures
+MissilesActivateImpactLines 
+Monsterfallingdamage
+PrecacheSounds = "NSTHND03", "NSTHND02", "NSTHND02", "NSTHND01", "NSTHND00"
+sky1 = "G_SKY2"
+	//4 8 15 16 23 42
+	//ResetHealth
+	//ResetInventory
+}
+
+// Monty Python's Goth Revenge
+// Mystical Jazz Baseball
+// Arcane Barcode of the Blood God
+// 
+
+map MAP00 "Difficulty Select"
+{
+	levelnum = 1
+	next = "MAP01"
+	par = 360
+	sucktime = 1
+	music = "Music/Tenth Street.spc"
+}
+
+map MAP01 "Everybody Loves the Spatula Hoedown"
+{
+	levelnum = 2
+	next = "MAP03"
+	par = 280//
+	sucktime = 1
+	music = "Music/Morgue.spc"
+}
+
+map MAP03 "Quiet Cannibal Temple"
+{
+	levelnum = 3
+	next = "MAP04"
+	par = 360
+	sucktime = 1
+	music = "Music/Gunfight.spc"
+}
+
+map MAP04 "Spectral Jackhammer"
+{
+	sky1 = "P_SKY1"
+	sky2 = "P_SKY2"
+	Lightning
+	levelnum = 4
+	next = "MAP04"
+	secretnext = "MAP07"
+	par = 100//
+	sucktime = 1
+	music = "Music/Dead.spc"
+}
+
+map MAP06 "Professional Deer Hunter - The Quickening"
+{
+	sky1 = "RR_SKY1"
+	levelnum = 6
+	next = "MAP00"
+	par = 360
+	sucktime = 1
+	music = "Music/Dead.spc"
+}
+
+map MAP07 "NullWolf"
+{
+	sky1 = "VOID0000"
+	levelnum = 7
+	next = 5
+	par = 360
+	sucktime = 1
+	music = "Music/D_NULL"//gotta get some snes wolf music or something
+}
+
+map MAP05 "Holy Lightning Fandango"//I guess this will be a boss battle
+{
+	sky1 = "STSKY999"
+	levelnum = 5
+	next = "MAP06"
+	par = 360
+	sucktime = 1
+	music = "Music/Dead.spc"
+}
+
+map MAP02 "Tony Hawk's Shotgun Castle"
+{
+	levelnum = 2
+	next = "MAP02"
+	par = 360
+	sucktime = 1
+	music = "Music/Dead.spc"//mappy bonus stage music would be cool
+}
