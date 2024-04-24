@@ -127,6 +127,9 @@ DoomEdNums
 	12094 = WolfFallenChair
 	12095 = Gumby
 	12096 = Pokey
+	12097 = ProximitySwitch
+	12098 = WolfBushSmall
+	12099 = WolfBushLarge
 }
 
 defaultmap
