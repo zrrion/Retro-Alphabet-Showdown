@@ -130,6 +130,7 @@ DoomEdNums
 	12097 = ProximitySwitch
 	12098 = WolfBushSmall
 	12099 = WolfBushLarge
+	12100 = CacoSwitch
 }
 
 defaultmap
