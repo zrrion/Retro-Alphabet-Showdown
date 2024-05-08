@@ -30,6 +30,7 @@ DoomEdNums
 	32009 = skp_RollerGate_Decoration
 	32010 = SKP_HealthMegaBonus
 	32011 = CacoMeat
+	32012 = SKP_JumpBoots_Perm
 	
 	12011 = SwitchButton
 	12012 = SwitchSwitch
@@ -131,6 +132,10 @@ DoomEdNums
 	12098 = WolfBushSmall
 	12099 = WolfBushLarge
 	12100 = CacoSwitch
+	12101 = RoTTCeilingLight_Orange
+	12102 = RoTTCeilingLight_Yellow
+	12103 = skp_EnemySpawner
+	12104 = skp_ItemSpawner
 }
 
 defaultmap
