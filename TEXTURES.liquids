@@ -55,7 +55,7 @@ Texture "B_1002", 128, 128
 
 Texture "W_1000", 64, 64
 {
-	Patch "CACOF007", 0, 0
+	Patch "CACOF010", 0, 0
 	{
 		Translation "196:198=199:201"
 	}
