@@ -14,6 +14,7 @@ DoomEdNums
 	17013 = TechPillar2
 	17014 = TechPillar3
 	17015 = Cacomera
+	17016 = skp_DeadChaingunGuy
 	
 	10010 = BloodDripper
 	10011 = LiquidFizz
