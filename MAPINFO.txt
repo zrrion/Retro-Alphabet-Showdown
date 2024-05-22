@@ -137,6 +137,7 @@ DoomEdNums
 	12102 = RoTTCeilingLight_Yellow
 	12103 = skp_EnemySpawner
 	12104 = skp_ItemSpawner
+	12105 = SKP_WoodSignFront
 }
 
 defaultmap
@@ -162,6 +163,15 @@ sky1 = "G_SKY2"
 // Mystical Jazz Baseball
 // Arcane Barcode of the Blood God
 // 
+
+map MAPDEV "Dev Map"
+{
+	levelnum = 666
+	next = "MAP01"
+	par = 360
+	sucktime = 1
+	music = "Music/Gunfight.spc"
+}
 
 map MAP00 "Difficulty Select"
 {
