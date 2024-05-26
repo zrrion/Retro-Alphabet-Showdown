@@ -182,6 +182,9 @@ map MAPDEV "Dev Map"
 
 map MAP00 "Difficulty Select"
 {
+	ResetItems
+	ResetInventory
+	ResetHealth
 	levelnum = 1
 	next = "MAP01"
 	par = 360
