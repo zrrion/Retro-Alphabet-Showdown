@@ -4,6 +4,11 @@ episode MAP00
 noskillmenu
 name = "Retro Alphabet Showdown"
 }
+episode MAPDEV
+{
+noskillmenu
+name = "Dev map"
+}
 
 DoomEdNums
 {	
@@ -15,6 +20,8 @@ DoomEdNums
 	17014 = TechPillar3
 	17015 = Cacomera
 	17016 = skp_DeadChaingunGuy
+	17017 = skp_DeadCacomera
+	17018 = GoreNest
 	
 	10010 = BloodDripper
 	10011 = LiquidFizz
@@ -167,7 +174,7 @@ sky1 = "G_SKY2"
 map MAPDEV "Dev Map"
 {
 	levelnum = 666
-	next = "MAP01"
+	next = "MAP00"
 	par = 360
 	sucktime = 1
 	music = "Music/Gunfight.spc"
