@@ -173,6 +173,7 @@ sky1 = "G_SKY2"
 
 map MAPDEV "Dev Map"
 {
+	sky1 = "Textures/Sky/RR_SKY1.png"
 	levelnum = 666
 	next = "MAP00"
 	par = 360
