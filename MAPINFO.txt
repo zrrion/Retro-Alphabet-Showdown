@@ -217,7 +217,7 @@ map MAP04 "Spectral Jackhammer"
 	sky2 = "P_SKY2"
 	Lightning
 	levelnum = 4
-	next = "MAP04"
+	next = "MAP05"
 	secretnext = "MAP07"
 	par = 100//
 	sucktime = 1
@@ -244,9 +244,9 @@ map MAP07 "NullWolf"
 	music = "Music/D_NULL"//gotta get some snes wolf music or something
 }
 
-map MAP05 "Holy Lightning Fandango"//I guess this will be a boss battle
+map MAP05 "Holy Lightning Fandango"//I guess this will be a boss battle?
 {
-	sky1 = "STSKY999"
+	sky1 = "Textures/Sky/RR_SKY1.png"
 	levelnum = 5
 	next = "MAP06"
 	par = 360
