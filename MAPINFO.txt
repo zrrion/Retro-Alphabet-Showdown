@@ -145,6 +145,7 @@ DoomEdNums
 	12103 = skp_EnemySpawner
 	12104 = skp_ItemSpawner
 	12105 = SKP_WoodSignFront
+	12106 = BehaviorTree
 }
 
 defaultmap
