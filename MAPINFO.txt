@@ -146,6 +146,10 @@ DoomEdNums
 	12104 = skp_ItemSpawner
 	12105 = SKP_WoodSignFront
 	12106 = BehaviorTree
+	12107 = SKP_HealthStation
+	12108 = skp_Incinerator
+	12109 = skp_HeatBlade
+	12110 = skp_RollerGateSign
 }
 
 defaultmap
