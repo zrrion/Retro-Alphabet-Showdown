@@ -1,0 +1,29 @@
+brightmap texture "Textures/Wolfendoom/WOLFW018.png"
+{
+	map "Textures/Wolfendoom/WOLFW018.bm.png"
+}
+
+brightmap texture "Textures/Wolfendoom/WOLFW017.png"
+{
+	map "Textures/Wolfendoom/WOLFW017.bm.png"
+}
+
+brightmap texture "Textures/Wolfendoom/WOLFW016.png"
+{
+	map "Textures/Wolfendoom/WOLFW016.bm.png"
+}
+
+brightmap texture "Textures/Wolfendoom/WOLFW015.png"
+{
+	map "Textures/Wolfendoom/WOLFW015.bm.png"
+}
+
+brightmap texture "Textures/Wolfendoom/WOLFW319.png"
+{
+	map "Textures/Wolfendoom/WOLFW319.bm.png"
+}
+
+brightmap texture "Textures/Wolfendoom/WOLFW322.png"
+{
+	map "Textures/Wolfendoom/WOLFW322.bm.png"
+}
