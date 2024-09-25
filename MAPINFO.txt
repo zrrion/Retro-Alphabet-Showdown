@@ -249,6 +249,17 @@ map MAP07 "NullWolf"
 	music = "Music/D_NULL"//gotta get some snes wolf music or something
 }
 
+map MAP08 "liminal"
+{
+	sky1 = SKY1
+	levelnum = 8
+	next = "MAP09"
+	par = 360
+	sucktime = 1
+	Fade = "14 05 00"
+	Fogdensity = 128
+}
+
 map MAP05 "Holy Lightning Fandango"//I guess this will be a boss battle?
 {
 	sky1 = "Textures/Sky/RR_SKY1.png"
