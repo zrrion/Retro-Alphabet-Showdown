@@ -150,6 +150,8 @@ DoomEdNums
 	12108 = skp_Incinerator
 	12109 = skp_HeatBlade
 	12110 = skp_RollerGateSign
+	12111 = skp_GorePile
+	12112 = skp_VeryDeadImp
 }
 
 defaultmap
