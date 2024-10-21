@@ -27,3 +27,18 @@ brightmap texture "Textures/Wolfendoom/WOLFW322.png"
 {
 	map "Textures/Wolfendoom/WOLFW322.bm.png"
 }
+
+brightmap texture "Textures/flesh/SKIN2009.png"
+{
+	map "Textures/flesh/SKIN2009.bm.png"
+}
+
+brightmap texture "Textures/flesh/SKIN2011.png"
+{
+	map "Textures/flesh/SKIN2009.bm.png"
+}
+
+brightmap texture "Textures/flesh/SKIN2013.png"
+{
+	map "Textures/flesh/SKIN2009.bm.png"
+}
