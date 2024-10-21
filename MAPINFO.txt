@@ -152,6 +152,8 @@ DoomEdNums
 	12110 = skp_RollerGateSign
 	12111 = skp_GorePile
 	12112 = skp_VeryDeadImp
+	12113 = ShootSwitch
+	12114 = skp_SpawnVend
 }
 
 defaultmap
@@ -173,6 +175,16 @@ sky1 = "G_SKY2"
 	//ResetInventory
 }
 
+cluster 1
+{
+
+}
+
+cluster 2
+{
+
+}
+
 // Monty Python's Goth Revenge
 // Mystical Jazz Baseball
 // Arcane Barcode of the Blood God
@@ -186,6 +198,7 @@ map MAPDEV "Dev Map"
 	par = 360
 	sucktime = 1
 	music = "Music/Gunfight.spc"
+	cluster = 1
 }
 
 map MAP00 "Difficulty Select"
@@ -198,6 +211,7 @@ map MAP00 "Difficulty Select"
 	par = 360
 	sucktime = 1
 	music = "Music/Tenth Street.spc"
+	cluster = 2
 }
 
 map MAP01 "Everybody Loves the Spatula Hoedown"
@@ -207,6 +221,7 @@ map MAP01 "Everybody Loves the Spatula Hoedown"
 	par = 280//
 	sucktime = 1
 	music = "Music/Morgue.spc"
+	cluster = 2
 }
 
 map MAP03 "Quiet Cannibal Temple"
@@ -216,6 +231,7 @@ map MAP03 "Quiet Cannibal Temple"
 	par = 360
 	sucktime = 1
 	music = "Music/Gunfight.spc"
+	cluster = 2
 }
 
 map MAP04 "Spectral Jackhammer"
@@ -229,6 +245,7 @@ map MAP04 "Spectral Jackhammer"
 	par = 100//
 	sucktime = 1
 	music = "Music/Dead.spc"
+	cluster = 2
 }
 
 map MAP06 "Professional Deer Hunter - The Quickening"
@@ -239,6 +256,7 @@ map MAP06 "Professional Deer Hunter - The Quickening"
 	par = 360
 	sucktime = 1
 	music = "Music/Dead.spc"
+	cluster = 2
 }
 
 map MAP07 "NullWolf"
@@ -249,6 +267,7 @@ map MAP07 "NullWolf"
 	par = 360
 	sucktime = 1
 	music = "Music/D_NULL"//gotta get some snes wolf music or something
+	cluster = 2
 }
 
 map MAP08 "liminal"
@@ -260,6 +279,7 @@ map MAP08 "liminal"
 	sucktime = 1
 	Fade = "14 05 00"
 	Fogdensity = 128
+	cluster = 2
 }
 
 map MAP05 "Holy Lightning Fandango"//I guess this will be a boss battle?
@@ -270,6 +290,7 @@ map MAP05 "Holy Lightning Fandango"//I guess this will be a boss battle?
 	par = 360
 	sucktime = 1
 	music = "Music/Dead.spc"
+	cluster = 2
 }
 
 map MAP02 "Tony Hawk's Shotgun Castle"
@@ -279,4 +300,5 @@ map MAP02 "Tony Hawk's Shotgun Castle"
 	par = 360
 	sucktime = 1
 	music = "Music/Dead.spc"//mappy bonus stage music would be cool
+	cluster = 2
 }
