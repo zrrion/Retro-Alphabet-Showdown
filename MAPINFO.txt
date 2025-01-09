@@ -154,6 +154,9 @@ DoomEdNums
 	12112 = skp_VeryDeadImp
 	12113 = ShootSwitch
 	12114 = skp_SpawnVend
+	12115 = WolfPottedPlant
+	12116 = WolfTypewriter
+	12117 = WolfCheese
 }
 
 defaultmap
