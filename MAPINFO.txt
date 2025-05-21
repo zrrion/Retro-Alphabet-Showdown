@@ -1,13 +1,13 @@
 clearepisodes
 episode MAP00
 {
-noskillmenu
-name = "Retro Alphabet Showdown"
+	noskillmenu
+	name = "Retro Alphabet Showdown"
 }
 episode MAPDEV
 {
-noskillmenu
-name = "Dev map"
+	noskillmenu
+	name = "Dev map"
 }
 
 DoomEdNums
@@ -161,18 +161,18 @@ DoomEdNums
 
 defaultmap
 {
-VertWallShade = 4
-HorizWallShade = -4
-SmoothLighting
+	VertWallShade = 4
+	HorizWallShade = -4
+	SmoothLighting
 
-ForceNoSkyStretch
-//SpawnWithWeaponRaised
-CheckSwitchRange
-ClipMidTextures
-MissilesActivateImpactLines 
-Monsterfallingdamage
-PrecacheSounds = "NSTHND03", "NSTHND02", "NSTHND02", "NSTHND01", "NSTHND00"
-sky1 = "G_SKY2"
+	ForceNoSkyStretch
+	//SpawnWithWeaponRaised
+	CheckSwitchRange
+	ClipMidTextures
+	MissilesActivateImpactLines 
+	Monsterfallingdamage
+	PrecacheSounds = "player/doublejump", "player/jump", "punch/wall", "punch/hit"
+	sky1 = "G_SKY2"
 	//4 8 15 16 23 42
 	//ResetHealth
 	//ResetInventory
@@ -242,6 +242,7 @@ map MAP04 "Spectral Jackhammer"
 	sky1 = "P_SKY1"
 	sky2 = "P_SKY2"
 	Lightning
+	PrecacheSounds = "NSTHND03", "NSTHND02", "NSTHND02", "NSTHND01", "NSTHND00"
 	levelnum = 4
 	next = "MAP05"
 	secretnext = "MAP07"
