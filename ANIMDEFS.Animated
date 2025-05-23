@@ -57,7 +57,4 @@ texture "Textures/Purple Glue/PRP_1001.png"
 	Pic "Textures/Purple Glue/PRP_1015.png" rand 6 8
 	Pic "Textures/Purple Glue/PRP_1016.png" rand 6 8
 
-
-texture CACOFLL0 range CACOFLL3 rand 6 8
-texture CACOFLL4 range CACOFLL7 rand 6 8
 texture Z_BRK009 range Z_BRK011 rand 6 8

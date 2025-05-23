@@ -99,3 +99,19 @@ pic CBLD0028 rand 3 6
 pic CBLD0029 rand 3 6
 pic CBLD0030 rand 3 6
 pic CBLD0031 rand 3 6
+
+texture CACOFLL0 range CACOFLL3 rand 6 8
+
+texture "Textures/Gore Nest/CACOFLL0.png"
+pic "Textures/Gore Nest/CACOFLL0.png" rand 6 8
+pic "Textures/Gore Nest/CACOFLL1.png" rand 6 8
+pic "Textures/Gore Nest/CACOFLL2.png" rand 6 8
+pic "Textures/Gore Nest/CACOFLL3.png" rand 6 8
+
+texture CACOFLL4 range CACOFLL7 rand 6 8
+
+texture "Textures/Gore Nest/CACOFLL4.png"
+pic "Textures/Gore Nest/CACOFLL4.png" rand 6 8
+pic "Textures/Gore Nest/CACOFLL5.png" rand 6 8
+pic "Textures/Gore Nest/CACOFLL6.png" rand 6 8
+pic "Textures/Gore Nest/CACOFLL7.png" rand 6 8
