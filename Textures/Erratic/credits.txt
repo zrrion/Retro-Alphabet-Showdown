@@ -1,1 +1,4 @@
-textures from Erratic by Jonathan Rimmer
+textures from Erratic by Jonathan Rimmer:
+- JRFL_09
+- JR_01
+everything else is an edit of those 2 textures
