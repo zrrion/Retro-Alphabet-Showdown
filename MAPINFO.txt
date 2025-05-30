@@ -190,8 +190,6 @@ cluster 2
 
 // Monty Python's Goth Revenge
 // Mystical Jazz Baseball
-// Arcane Barcode of the Blood God
-// 
 
 map MAPDEV "Dev Map"
 {
@@ -252,7 +250,7 @@ map MAP04 "Spectral Jackhammer"
 	cluster = 2
 }
 
-map MAP06 "Professional Deer Hunter - The Quickening"
+map MAP06 "Arcane Barcode of the Blood God"
 {
 	sky1 = "RR_SKY1"
 	levelnum = 6
