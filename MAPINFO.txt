@@ -157,6 +157,7 @@ DoomEdNums
 	12115 = WolfPottedPlant
 	12116 = WolfTypewriter
 	12117 = WolfCheese
+	12118 = RoTTCeilingLight_id
 }
 
 defaultmap
